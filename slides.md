@@ -15,6 +15,10 @@ Other languages have their own ways to get around this dilemma.
 speakers normally repeat the verb, either in its positive or negative form, 
 So there you have it. If you want to be very clear about your response, 
 this strategy is probably the best, most efficient way to answer a negative question without confusion.
+## Conclusion
+```my recollection is that generally in the Western world negative questions are answered as in English and French, whereas in Eastern languages they are answered in the opposite way. Thus in a cross-cultural setting it is important not to answer with just "Yes" or "No".
+```
+
 
 ## website
 "Aren't you coming too?"
