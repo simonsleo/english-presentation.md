@@ -16,9 +16,23 @@ speakers normally repeat the verb, either in its positive or negative form,
 So there you have it. If you want to be very clear about your response, 
 this strategy is probably the best, most efficient way to answer a negative question without confusion.
 ## Conclusion
-```my recollection is that generally in the Western world negative questions are answered as in English and French, whereas in Eastern languages they are answered in the opposite way. Thus in a cross-cultural setting it is important not to answer with just "Yes" or "No".
+Tag questions like "Snow is black, isn't it?" work the same way. A speaker of English anwers, "No, it isn't". A Chinese speaker answers, "Yes, it isn't".
 ```
+my recollection is that generally in the Western world negative questions are answered as in English and French, whereas in Eastern languages they are answered in the opposite way. Thus in a cross-cultural setting it is important not to answer with just "Yes" or "No".
+```
+In most cases, you can omit the “no/yes” entirely and simply answer with your clarification/explanation. This is generally a good idea when your answer would be “yes,” as some native speakers consider the type of response outlined above to be rude:
 
+Negative:         Aren’t you going to English class tomorrow?
+Positive:          Are you going to English class tomorrow?
+ 
+Negative:         Doesn’t she know that the report is due today?
+Positive:          Does she know that the report is due today?
+ 
+Negative:         Do you mind if I drink the last can of Coke?
+Positive:          May I drink the last can of Coke?
+ 
+Negative:         Didn’t you wash the dishes yesterday?
+Positive:          Did you wash the dishes yesterday?
 
 ## website
 "Aren't you coming too?"
